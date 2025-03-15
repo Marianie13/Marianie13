@@ -4,7 +4,7 @@
 </p>
 
 <!-- Encabezado -->
-<h1 align="center">👋 ¡Hola! Soy [Tu Nombre] </h1>
+<h1 align="center">👋 ¡Hola! Soy Marinie Vàsquez </h1>
 <p align="center">🔹 Desarrollador Full Stack | 🚀 Apasionado por la IA y el desarrollo web</p>
 
 ---
