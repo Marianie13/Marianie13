@@ -38,13 +38,13 @@
 
 ## 📫 **Contáctame**  
 <p align="left">
-  <a href="https://www.linkedin.com/in/tuusuario/">
+  <a href="https:[//www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/marianie-vasquez-749a91199/)">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
   <a href="https://github.com/tu_usuario">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
   </a>
-  <a href="mailto:tucorreo@email.com">
+  <a href="vasquezmarianie@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
