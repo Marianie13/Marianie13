@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 
 
+Full-Stack Developer with a strong focus on digital transformation and extensive experience in e-commerce management. Passionate about technology and innovation, I have led projects that optimize user experience and enhance efficiency in online commerce platforms. With a deep interest in digital marketing, I am committed to driving the growth of your online business. Ready to collaborate and take your projects to the next technological level!
 <!--
 **Marianie13/Marianie13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
