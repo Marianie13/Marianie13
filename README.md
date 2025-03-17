@@ -6,10 +6,10 @@
 ---
 
 ## 🧐 **Sobre mí**
-- 🔭 Actualmente trabajando en **[Tu Proyecto o Empresa]**  
-- 🌱 Aprendiendo sobre **[Tecnología en la que estás enfocado]**  
+- 🔭 Actualmente trabajando en **Transformaciòn digital**  
+- 🌱 Aprendiendo sobre **Python**  
 - 💡 Me encanta compartir conocimiento y explorar nuevas ideas  
-- 📫 Contáctame en **[Tu Email]**  
+- 📫 Contáctame en **vasquezmarianie@gmail.com**  
 
 ---
 
