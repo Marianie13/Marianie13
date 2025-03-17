@@ -28,8 +28,7 @@
 ## 📊 **Estadísticas de GitHub**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=tokyonight" width="48%">
-</p>
+ </p>
 
 ---
 
@@ -39,9 +38,9 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
  
-  <a href="mailto:vasquezmarianie@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+  
+  
+  
+
 
 ---
